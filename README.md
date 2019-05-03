@@ -13,3 +13,9 @@ My first GitHub Repo
 - white fang
 - harry potter
 - star wars
+
+## favorite sports
+
+- college basketball
+- cycling
+- soccer
